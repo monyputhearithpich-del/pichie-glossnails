@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pichie-glossnails/static/css/main.df9a1a28.css",
+    "main.js": "/pichie-glossnails/static/js/main.27234485.js",
+    "static/js/453.a58c764c.chunk.js": "/pichie-glossnails/static/js/453.a58c764c.chunk.js",
+    "index.html": "/pichie-glossnails/index.html",
+    "main.df9a1a28.css.map": "/pichie-glossnails/static/css/main.df9a1a28.css.map",
+    "main.27234485.js.map": "/pichie-glossnails/static/js/main.27234485.js.map",
+    "453.a58c764c.chunk.js.map": "/pichie-glossnails/static/js/453.a58c764c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9a1a28.css",
+    "static/js/main.27234485.js"
+  ]
+}
